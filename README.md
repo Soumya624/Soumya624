@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 I'm a Full Stack Developer/CP Enthusiast from India. Persuing My Undergraduate Degree from IIT Kharagpur. My Passion for Software is Coming Up with Ideas and Turning Them into Beautiful Interfaces
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya624&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+-->
