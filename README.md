@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Full Stack Developer/CP Enthusiast from India. Persuing My Undergraduate Degree from IIT Kharagpur. My Passion for Software is Coming Up with Ideas and Turning Them into Beautiful Interfaces
+Hi, I'm a Full Stack Developer/Competitive Programming enthusiast from India. My passion for software is coming up with ideas and turning them into beautiful interfaces!
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya624&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
