@@ -1,4 +1,4 @@
-### Hi There 👋
+### Hi 👋
 
 <!--
 **Soumya624/Soumya624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm a Full Stack Developer/Competitive Programming enthusiast from India. My passion for software is coming up with ideas and turning them into beautiful interfaces!
+I'm a Full Stack Developer/Competitive Programming enthusiast from India. My passion for software is coming up with ideas and turning them into beautiful interfaces!
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya624&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
